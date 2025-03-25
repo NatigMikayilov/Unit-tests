@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadraticSolver.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970ad4ecf1d810bd92f5a08c05a943e78534609b")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadraticSolver.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadraticSolver.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

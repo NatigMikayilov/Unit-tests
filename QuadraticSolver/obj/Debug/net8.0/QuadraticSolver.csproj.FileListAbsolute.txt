@@ -9,3 +9,4 @@ C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net8.0
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net8.0\refint\QuadraticSolver.dll
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.pdb
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net8.0\ref\QuadraticSolver.dll
+C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.sourcelink.json

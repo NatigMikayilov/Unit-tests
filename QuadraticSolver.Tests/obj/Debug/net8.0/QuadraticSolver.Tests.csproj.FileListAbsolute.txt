@@ -100,3 +100,4 @@ C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net8.0\QuadraticSolver.Tests.pdb
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net8.0\QuadraticSolver.Tests.genruntimeconfig.cache
 C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net8.0\ref\QuadraticSolver.Tests.dll
+C:\Users\natig\Documents\QuadraticSolverProject\QuadraticSolver.Tests\obj\Debug\net8.0\QuadraticSolver.Tests.sourcelink.json
